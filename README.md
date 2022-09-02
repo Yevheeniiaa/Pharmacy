@@ -20,6 +20,15 @@
 ## The algorithm of the object-oriented program
 ### The activity diagram is below.
 ![](https://github.com/Yevheeniiaa/Pharmacy/blob/main/activity_diagram.png)
-# Launch
+## Launch
+### Examples of program's graphical interface of:
+   + the main menu:
+ 
+![](https://github.com/Yevheeniiaa/Pharmacy/blob/main/main_menu.png)
+
+
+   + the information output
+   
+![](https://github.com/Yevheeniiaa/Pharmacy/blob/main/display_information.png)
 
 
