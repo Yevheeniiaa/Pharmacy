@@ -1,0 +1,16 @@
+{
+  "provider": [
+    {
+      "ID provider": "c08e619c-97b1-43af-b228-c139d9d68e26",
+      "name": "Oliver"
+    },
+    {
+      "ID provider": "bf27c585-9ba9-41b3-81cd-8e9c9d867ad6",
+      "name": "Emma"
+    },
+    {
+      "ID provider": "b1e0848c-dfc3-4e0a-beb6-440118f2f83f",
+      "name": "Charlotte"
+    }
+  ]
+}

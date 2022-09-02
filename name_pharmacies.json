@@ -1,0 +1,16 @@
+{
+  "pharmacy": [
+    {
+      "ID pharmacy": "b2428a62-f55a-4e61-985f-a62fb0ea084b",
+      "name": "Simple Meds"
+    },
+    {
+      "ID pharmacy": "a165bfa7-f20b-4eb7-bc72-5bea0e9698b5",
+      "name": "MedShoppe"
+    },
+    {
+      "ID pharmacy": "fff6fe7e-9c6c-4114-a09b-c1eff102eab3",
+      "name": "VitaMind"
+    }
+  ]
+}

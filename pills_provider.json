@@ -1,0 +1,100 @@
+{
+  "pills_provider": [
+    {
+      "ID provider": "c08e619c-97b1-43af-b228-c139d9d68e26",
+      "ID pills_prov": "4c3380b0-8d3d-49f0-9f27-26834677d7fe",
+      "name": "alitretinoin",
+      "size": 15,
+      "price": 123,
+      "expiration": "13.10.2022",
+      "quantity": 78
+    },
+    {
+      "ID provider": "c08e619c-97b1-43af-b228-c139d9d68e26",
+      "ID pills_prov": "a1a718b3-2e02-4d60-81b6-f380ed490c2c",
+      "name": "triamterene",
+      "size": 50,
+      "price": 800,
+      "expiration": "13.09.2023",
+      "quantity": 198
+    },
+    {
+      "ID provider": "c08e619c-97b1-43af-b228-c139d9d68e26",
+      "ID pills_prov": "9325531d-f721-4713-83be-79ee539914a3",
+      "name": "sulfasalazine",
+      "size": 25,
+      "price": 57,
+      "expiration": "18.05.2022",
+      "quantity": 96
+    },
+    {
+      "ID provider": "c08e619c-97b1-43af-b228-c139d9d68e26",
+      "ID pills_prov": "d5c3eb75-c866-46ec-ad27-1226c9ee370e",
+      "name": "primidone",
+      "size": 200,
+      "price": 187,
+      "expiration": "29.12.2026",
+      "quantity": 145
+    },
+
+
+
+    {
+      "ID provider": "bf27c585-9ba9-41b3-81cd-8e9c9d867ad6",
+      "ID pills_prov": "aa654b55-8385-44aa-91d1-f17547720208",
+      "name": "primidone",
+      "size": 125,
+      "price": 45,
+      "expiration": "21.09.2025",
+      "quantity": 50
+    },
+    {
+      "ID provider": "bf27c585-9ba9-41b3-81cd-8e9c9d867ad6",
+      "ID pills_prov": "c06de674-fd29-4f87-9987-e7478d87b2e8",
+      "name": "primidone",
+      "size": 200,
+      "price": 239,
+      "expiration": "17.11.2024",
+      "quantity": 100
+    },
+    {
+      "ID provider": "bf27c585-9ba9-41b3-81cd-8e9c9d867ad6",
+      "ID pills_prov": "ce043bc6-1734-45d1-8b81-1f3938aee8c6",
+      "name": "alprazolam",
+      "price": 2000,
+      "size": 100,
+      "expiration": "07.12.2029",
+      "quantity": 78
+    },
+
+
+    {
+      "ID provider": "b1e0848c-dfc3-4e0a-beb6-440118f2f83f",
+      "ID pills_prov": "1158d59c-6d3e-4fa6-9a92-61af4f2d1e56",
+      "name": "triamterene",
+      "size": 50,
+      "price": 700,
+      "expiration": "29.05.2022",
+      "quantity": 100
+    },
+    {
+      "ID provider": "b1e0848c-dfc3-4e0a-beb6-440118f2f83f",
+      "ID pills_prov": "90fd3124-8ddd-4bb2-bc12-f638f3575042",
+      "name": "sulfasalazine",
+      "size": 25,
+      "price": 30,
+      "expiration": "30.12.2022",
+      "quantity": 200
+    },
+    {
+      "ID provider": "b1e0848c-dfc3-4e0a-beb6-440118f2f83f",
+      "ID pills": "bd767acf-b5dd-447f-a916-37993bfb7b46",
+      "name": "pilocarpine",
+      "price": 97,
+      "size": 150,
+      "expiration": "29.09.2026",
+      "quantity": 150
+    }
+  ]
+
+}
