@@ -10,7 +10,7 @@
     - About pills
     - About pharmacy
     - About provider
-    - What pills are in whicharmacies
+    - What pills are in which pharmacies
     - In what pharmacies explored pills are
     - Who has what kind of pills
     - Who has definite pills with definite size, and how many it does. Define the most cost effective cooperation
