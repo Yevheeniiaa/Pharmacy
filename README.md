@@ -1,4 +1,3 @@
-# Pharmacy
 ## Introduction
 ### The main idea of this project is to make an object-oriented program "Pharmacy". Due to it, a user can get information about pharmacies, pills, and providers
 ## Technology
